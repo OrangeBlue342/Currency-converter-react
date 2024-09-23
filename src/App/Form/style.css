@@ -4,7 +4,7 @@
 }
 
 .fieldset_legend {
-    font-size: medium;
+    font-size: 2em;
     text-align: center;
     padding-top: 30px;
 }
@@ -19,7 +19,7 @@
 
 .form {
     width: 600px;
-    height: 400px;
+    height: 450px;
     margin: 50px auto;
     background-color: hsl(50, 60%, 54%);
     border: 1px groove rgb(122, 137, 14);
