@@ -1,0 +1,52 @@
+.fieldset {
+    border:none;
+    text-align: center;
+}
+
+.fieldset_legend {
+    font-size: medium;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.form_labelText {
+    max-width: 60px;
+    width: 100%;
+    display: inline-block;
+    
+}
+
+
+.form {
+    width: 600px;
+    height: 400px;
+    margin: 50px auto;
+    background-color: hsl(50, 60%, 54%);
+    border: 1px groove rgb(122, 137, 14);
+    border-radius: 20px;
+    box-shadow: 25px black;
+    overflow-x: auto;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.calcule {
+    width: 100%;
+    border: none;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.calcule:hover {
+    background-color: rgb(49, 49, 253);
+}
+
+.calcule:active {
+    background-color: rgb(89, 89, 237);
+}
