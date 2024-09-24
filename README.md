@@ -4,7 +4,7 @@ A practical application with which you can check the current zloty exchange rate
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![demo] (src/App/Form/images/share2.png)
+![demo] (share2.png)
 
 ## Available Scripts
 
