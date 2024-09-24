@@ -26,15 +26,16 @@
     border-radius: 20px;
     box-shadow: 25px black;
     overflow-x: auto;
-    margin:auto;
+    margin: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .calcule {
-    width: 100%;
+    width: 100px;
     border: none;
+    font-size: medium;
     background-color: blue;
     display: flex;
     justify-content: center;
